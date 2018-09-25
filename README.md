@@ -1,0 +1,1 @@
+# Camunda-AMQP1.0-Custom-Connector
